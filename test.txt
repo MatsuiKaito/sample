@@ -1,2 +1,14 @@
 test!
 こんにちは
+
+github
+リモートリポジトリ
+https://github.com/MatsuiKaito/sample.git
+
+
+githubの使い方は以下から参照。
+https://web-camp.io/magazine/archives/75359/
+
+vscodeから
+
+変更して保存するとChangesが出てくるのでStage Changes→Commit
