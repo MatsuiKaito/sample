@@ -27,3 +27,6 @@ vscodeから
 
 ステージに関してのwebページ
 https://daretoku-unix.blogspot.com/2009/08/git.html
+
+READMEとはなに？
+ソフトやプログラムの部品などにくっついている説明書的なファイルのこと。
