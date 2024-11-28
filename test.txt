@@ -11,7 +11,7 @@ https://web-camp.io/magazine/archives/75359/
 
 vscodeから
 
-変更して保存するとChangesが出てくるのでStage Changes
+変更して保存するとChangesが出てくるのでStage Changes（もしくはgit add <ファイル名>でindexへ移動できる）indexとはコミットする前段階の領域
 →なにかメッセージを書いてCommit（このメッセージは「git log」で出て来る）
 →Sync （これがpush）
 
@@ -30,3 +30,8 @@ https://daretoku-unix.blogspot.com/2009/08/git.html
 
 READMEとはなに？
 ソフトやプログラムの部品などにくっついている説明書的なファイルのこと。
+
+git remoteでリモートリポジトリの名前を表示できる
+
+pushとかcommitとかのコマンドが書かれてある
+https://envader.plus/course/5/scenario/1056
