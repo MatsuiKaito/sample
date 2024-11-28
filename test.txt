@@ -35,3 +35,5 @@ git remoteでリモートリポジトリの名前を表示できる
 
 pushとかcommitとかのコマンドが書かれてある
 https://envader.plus/course/5/scenario/1056
+
+俺はgithubを理解した
